@@ -38,38 +38,6 @@ I enjoy turning ideas into working systems, focusing on clean architecture, perf
 - Git & GitHub
 - HTTP / API integration
 
----
-
-## 📂 Featured Projects
-
-### 📅 Weekly Task Manager (Full Stack Project)
-A production-style task management system with real-time updates and email notifications.
-
-**Key Features:**
-- Full CRUD operations for tasks
-- Angular reactive UI (Signals)
-- Supabase database integration
-- Weekly summary email system (EmailJS)
-- Responsive, clean UI
-
----
-
-### 🔐 Authentication & User System (Backend Project)
-Secure authentication system demonstrating backend architecture skills.
-
-**Key Features:**
-- JWT authentication
-- User management system
-- Secure password handling
-- Role-based access control
-
----
-
-### 💻 CLI Tool (C# Project)
-A command-line application demonstrating object-oriented programming principles.
-
----
-
 ## 📈 GitHub Stats
 https://github.com/leahZinger
 ---
