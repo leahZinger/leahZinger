@@ -20,24 +20,6 @@ I enjoy turning ideas into working systems, focusing on clean architecture, perf
 - Problem solving using data structures and algorithms
 
 ---
-
-## 🛠️ Tech Stack
-
-### Backend
-- .NET / Node.js
-- C#
-- REST APIs
-
-### Frontend
-- Angular
-- TypeScript
-- JavaScript
-
-### Database & Tools
-- SQL / Supabase
-- Git & GitHub
-- HTTP / API integration
-
 ## 📈 GitHub Stats
 https://github.com/leahZinger
 ---
